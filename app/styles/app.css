@@ -21,3 +21,7 @@
   position: absolute;
   width: 1px;
 }
+
+.login-btn:hover{
+  cursor: pointer;
+}
